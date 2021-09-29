@@ -61,7 +61,7 @@ mistune==0.7.4
 model-mommy==1.4.0
 nbconvert==5.2.1
 nbformat==4.3.0
-nltk==3.2.4
+nltk==3.6.3
 nodeenv==1.2.0
 numpy==1.13.1
 numpydoc==0.6.0
